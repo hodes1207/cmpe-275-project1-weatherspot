@@ -1,0 +1,1 @@
+Weatherspot using EJB, JPA, JSON
